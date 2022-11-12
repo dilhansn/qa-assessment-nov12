@@ -12,6 +12,8 @@ command - newman run Booker-nov12.json
 
 # Task #3 : Database Querying
 
+* assumption - Oracle DB
+
   1). select * from Contacts where email is not NULL AND phone is not NULL
   
   2). select groupId, count(*) from Users group by groupId
