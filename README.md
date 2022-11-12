@@ -1,7 +1,7 @@
 # qa-assessment-nov12
 
 
-Task #2 : API TESTS
+# Task #2 : API TESTS
 
 file - Booker-nov12.json
 
@@ -10,7 +10,7 @@ tools used - POSTMAN, NEWMAN
 command - newman run Booker-nov12.json
 
 
-Task #3 : Database Querying
+# Task #3 : Database Querying
 
   1). select * from Contacts where email is not NULL AND phone is not NULL
   
