@@ -3,7 +3,7 @@
 
 # Task #1 : UI Tests
 
-* Sample setup only
+* src, pom.xml, testng.xml (Sample setup only)
 
 # Task #2 : API Tests
 
