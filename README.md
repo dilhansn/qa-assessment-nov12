@@ -1,7 +1,11 @@
 # qa-assessment-nov12
 
 
-# Task #2 : API TESTS
+# Task #1 : UI Tests
+
+* Sample setup only
+
+# Task #2 : API Tests
 
 file - Booker-nov12.json
 
